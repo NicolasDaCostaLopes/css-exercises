@@ -1,0 +1,30 @@
+/* 
+  ========== This is my work before i read the self check of the README.md and checked solution
+
+.button{
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+.yellow-background{
+    background-color: yellow;
+}
+.black-button{
+    background-color: black;
+    color: white;
+    font-size: bold;
+} */
+
+.black-and-white, .yellow {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.black-and-white{
+    background-color: black;
+    color: white;
+    font-size: bold;
+}
